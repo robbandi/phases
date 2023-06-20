@@ -1,0 +1,24 @@
+{
+  "name": "phases",
+  "version": "1.0.5",
+  "description": "A wide range of mathematical functions for shape representation and curve generation",
+  "main": "index.js",
+  "keywords": [
+    "trigonometry",
+    "div",
+    "transformations",
+    "mathematical formulas",
+    "animations",
+    "designs"
+  ],
+  "author": "Robin Naghshbandi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robbandi/"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/trigwave/issues"
+  },
+  "homepage": "https://github.com/yourusername/trigwave#readme"
+}
