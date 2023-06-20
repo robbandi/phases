@@ -1,6 +1,6 @@
 {
   "name": "phases",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A wide range of mathematical functions for shape representation and curve generation",
   "main": "index.js",
   "keywords": [
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robbandi/"
+    "url": "https://github.com/robbandi/phases"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/trigwave/issues"
+    "url": "https://github.com/robbandi/phases"
   },
-  "homepage": "https://github.com/yourusername/trigwave#readme"
+  "homepage": "https://github.com/robbandi/phases#readme"
 }

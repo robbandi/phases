@@ -1,6 +1,3 @@
-// Import necessary modules
-// import { sin, cos, tan } from 'mathjs';
-
 // Define Phases object
 export const Phases = {
   // Function to apply sine wave effect to a div
